@@ -33,20 +33,24 @@ Technologies I actually use and work with:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?logo=react&logoColor=white)
 
 **Backend & Data**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_7.8-2D3748?logo=prisma)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?logo=cloudflare)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod)
 
 **DevOps & Edge**
 
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare)
-![Wrangler](https://img.shields.io/badge/Wrangler-F38020?logo=cloudflare)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
 
 ---
 
@@ -63,10 +67,6 @@ Technologies I actually use and work with:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZSylph&theme=transparent&hide_border=true&stroke=39C5BB&ring=39C5BB&fire=39C5BB&currStreakNum=39C5BB" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZSylph&show_icons=true&theme=transparent&hide_border=true&icon_color=39C5BB&title_color=39C5BB" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSylph&layout=compact&theme=transparent&hide_border=true&title_color=39C5BB" height="165" />
 </p>
 
